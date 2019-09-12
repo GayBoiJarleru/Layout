@@ -1,0 +1,20 @@
+main {
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    font-family: 'Faster One', cursive;
+}
+
+nav {
+    width: 20%;
+}
+
+section {
+    witdh: 80;
+    color: greenyellow;
+    margin-left:10%;
+}
+
+body {
+    background-color: black
+}
